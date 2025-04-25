@@ -2,7 +2,8 @@ String Versione = "MAK-NANO-2RELE";
 /*
 
 Note: 
-
+kit https://www.ebay.it/itm/235901868338
+pcb https://www.ebay.it/itm/375915351500
 	
 Per entrare nel menu scrivere "Menu" a 115200 baud
 
